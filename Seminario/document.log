@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.9.21)  4 FEB 2025 22:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.9.21)  5 FEB 2025 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1703,15 +1703,12 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
 [7
 
-])
-
-LaTeX Warning: Citation 'Template_Beamer_UFC' undefined on input line 82.
-
+]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[8
+ [8
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
@@ -1728,11 +1725,22 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
  [10
 
 ]
+File: imagens//secao1/tradicionalspam.png Graphic file (type bmp)
+<imagens//secao1/tradicionalspam.png>
+
+Overfull \hbox (1.01811pt too wide) in paragraph at lines 141--141
+ [] 
+ []
+
+
+Overfull \vbox (27.20476pt too high) detected at line 141
+ []
+
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [11
+[11
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
@@ -1741,12 +1749,50 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
  [12
 
+])
+
+LaTeX Warning: Citation 'Template_Beamer_UFC' undefined on input line 82.
+
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+[13
+
 ]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [13
+ [14
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [15
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [16
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [17
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [18
 
 ]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -1756,7 +1802,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [14
+ [19
 
 ] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
@@ -1768,7 +1814,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [15
+ [20
 
 ] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
@@ -1778,7 +1824,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [16
+ [21
 
 ]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -1792,7 +1838,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [17
+ [22
 
 ]
 Underfull \hbox (badness 2600) in paragraph at lines 174--174
@@ -1808,29 +1854,29 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[18
+[23
 
 ]
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
 
 
-LaTeX Warning: Citation 'siteufc' on page 19 undefined on input line 187.
+LaTeX Warning: Citation 'siteufc' on page 24 undefined on input line 187.
 
 
-LaTeX Warning: Citation 'einstein' on page 19 undefined on input line 187.
+LaTeX Warning: Citation 'einstein' on page 24 undefined on input line 187.
 
 
-LaTeX Warning: Citation 'siteufc' on page 19 undefined on input line 187.
+LaTeX Warning: Citation 'siteufc' on page 24 undefined on input line 187.
 
 
-LaTeX Warning: Citation 'einstein' on page 19 undefined on input line 187.
+LaTeX Warning: Citation 'einstein' on page 24 undefined on input line 187.
 
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[19
+[24
 
 ]
 
@@ -1840,14 +1886,14 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[20
+[25
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [21
+ [26
 
 ]
 \tf@nav=\write8
@@ -1869,7 +1915,7 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 9885992A16F090A78A491DE14B9A17B0;1029.
+(rerunfilecheck)             Checksum: 2F71B783A2E628A535CABBCED8C70520;1030.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                document
@@ -1880,12 +1926,12 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40765 strings out of 474878
- 795750 string characters out of 5762516
- 2033627 words of memory out of 5000000
- 62094 multiletter control sequences out of 15000+600000
+ 40808 strings out of 474878
+ 797231 string characters out of 5762516
+ 2035627 words of memory out of 5000000
+ 62136 multiletter control sequences out of 15000+600000
  593963 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  142i,19n,137p,1005b,4012s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on document.pdf (21 pages).
+Output written on document.pdf (26 pages).
