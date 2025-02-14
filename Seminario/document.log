@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.9.21)  5 FEB 2025 14:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.9.21)  11 FEB 2025 10:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1621,7 +1621,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1630,7 +1630,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1640,13 +1640,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 29.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 29.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 29.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 
-Overfull \hbox (2.77988pt too wide) in paragraph at lines 29--29
+Overfull \hbox (2.77988pt too wide) in paragraph at lines 30--30
 []$[]$ $[]$  
  []
 
@@ -1657,14 +1657,14 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 [4
 
 ]
-Underfull \hbox (badness 4328) in paragraph at lines 49--49
+Underfull \hbox (badness 4328) in paragraph at lines 50--50
 []\T1/phv/m/n/10 ``[Automatização de] ati-vi-da-
  []
 
 File: imagens//secao1/bellman1978.png Graphic file (type bmp)
 <imagens//secao1/bellman1978.png>
 
-Overfull \hbox (2.77988pt too wide) in paragraph at lines 49--49
+Overfull \hbox (2.77988pt too wide) in paragraph at lines 50--50
 []$[]$ $[]$  
  []
 
@@ -1680,12 +1680,12 @@ File: imagens//secao1/kurzweil.png Graphic file (type bmp)
 
 Missing character: There is no ” ("201D) in font phvr8t!
 
-Underfull \hbox (badness 1742) in paragraph at lines 68--68
+Underfull \hbox (badness 1742) in paragraph at lines 69--69
 \T1/phv/m/n/10 in-te-li-gên-cia quando exe-cu-ta-
  []
 
 
-Overfull \hbox (2.77988pt too wide) in paragraph at lines 68--68
+Overfull \hbox (2.77988pt too wide) in paragraph at lines 69--69
 []$[]$ $[]$  
  []
 
@@ -1728,12 +1728,12 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 File: imagens//secao1/tradicionalspam.png Graphic file (type bmp)
 <imagens//secao1/tradicionalspam.png>
 
-Overfull \hbox (1.01811pt too wide) in paragraph at lines 141--141
+Overfull \hbox (1.01811pt too wide) in paragraph at lines 142--142
  [] 
  []
 
 
-Overfull \vbox (27.20476pt too high) detected at line 141
+Overfull \vbox (27.20476pt too high) detected at line 142
  []
 
 File: libs/logoUFCbackground.png Graphic file (type bmp)
@@ -1749,6 +1749,13 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
  [12
 
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [13
+
 ])
 
 LaTeX Warning: Citation 'Template_Beamer_UFC' undefined on input line 82.
@@ -1757,14 +1764,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[13
-
-]
-File: libs/logoUFCbackground.png Graphic file (type bmp)
-<libs/logoUFCbackground.png>
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
- [14
+[14
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
@@ -1795,6 +1795,13 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
  [18
 
 ]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [19
+
+]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 ) (./code/main.py)
@@ -1802,7 +1809,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [19
+ [20
 
 ] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
@@ -1814,7 +1821,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [20
+ [21
 
 ] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
@@ -1824,7 +1831,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [21
+ [22
 
 ]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -1838,7 +1845,7 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [22
+ [23
 
 ]
 Underfull \hbox (badness 2600) in paragraph at lines 174--174
@@ -1854,29 +1861,29 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[23
+[24
 
 ]
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
 
 
-LaTeX Warning: Citation 'siteufc' on page 24 undefined on input line 187.
+LaTeX Warning: Citation 'siteufc' on page 25 undefined on input line 187.
 
 
-LaTeX Warning: Citation 'einstein' on page 24 undefined on input line 187.
+LaTeX Warning: Citation 'einstein' on page 25 undefined on input line 187.
 
 
-LaTeX Warning: Citation 'siteufc' on page 24 undefined on input line 187.
+LaTeX Warning: Citation 'siteufc' on page 25 undefined on input line 187.
 
 
-LaTeX Warning: Citation 'einstein' on page 24 undefined on input line 187.
+LaTeX Warning: Citation 'einstein' on page 25 undefined on input line 187.
 
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[24
+[25
 
 ]
 
@@ -1886,14 +1893,14 @@ File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[25
+[26
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [26
+ [27
 
 ]
 \tf@nav=\write8
@@ -1915,7 +1922,7 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 2F71B783A2E628A535CABBCED8C70520;1030.
+(rerunfilecheck)             Checksum: 4E2ABD887D1317FE41D6BFBC2864175A;1030.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                document
@@ -1926,12 +1933,12 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40808 strings out of 474878
- 797231 string characters out of 5762516
- 2035627 words of memory out of 5000000
- 62136 multiletter control sequences out of 15000+600000
+ 40810 strings out of 474878
+ 797247 string characters out of 5762516
+ 2036627 words of memory out of 5000000
+ 62138 multiletter control sequences out of 15000+600000
  593963 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  142i,19n,137p,1005b,4012s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on document.pdf (26 pages).
+Output written on document.pdf (27 pages).

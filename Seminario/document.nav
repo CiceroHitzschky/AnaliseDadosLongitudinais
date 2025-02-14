@@ -27,47 +27,49 @@
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\slideentry {1}{1}{10}{12/12}{O que é Inteligência Artificial?}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@sectionpages {3}{12}}
-\headcommand {\beamer@subsectionpages {3}{12}}
-\headcommand {\sectionentry {2}{Seção I}{13}{Seção I}{0}}
-\headcommand {\slideentry {2}{0}{1}{13/13}{}{0}}
+\headcommand {\slideentry {1}{1}{11}{13/13}{O que é Inteligência Artificial?}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@subsectionpages {13}{13}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{14}{Subseção I}}
-\headcommand {\slideentry {2}{1}{1}{14/14}{Subseção I}{0}}
+\headcommand {\beamer@sectionpages {3}{13}}
+\headcommand {\beamer@subsectionpages {3}{13}}
+\headcommand {\sectionentry {2}{Seção I}{14}{Seção I}{0}}
+\headcommand {\slideentry {2}{0}{1}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
 \headcommand {\beamer@subsectionpages {14}{14}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{15}{Subseção II}}
-\headcommand {\slideentry {2}{2}{1}{15/17}{Subseção II}{0}}
-\headcommand {\beamer@framepages {15}{17}}
-\headcommand {\beamer@subsectionpages {15}{17}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{18}{Subseção III}}
-\headcommand {\slideentry {2}{3}{1}{18/18}{Subseção III}{0}}
-\headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {2}{3}{2}{19/19}{Subseção III}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{15}{Subseção I}}
+\headcommand {\slideentry {2}{1}{1}{15/15}{Subseção I}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{16}{Subseção II}}
+\headcommand {\slideentry {2}{2}{1}{16/18}{Subseção II}{0}}
+\headcommand {\beamer@framepages {16}{18}}
+\headcommand {\beamer@subsectionpages {16}{18}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{19}{Subseção III}}
+\headcommand {\slideentry {2}{3}{1}{19/19}{Subseção III}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {2}{3}{3}{20/20}{Subseção III}{0}}
+\headcommand {\slideentry {2}{3}{2}{20/20}{Subseção III}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {2}{3}{4}{21/21}{Subseção III}{0}}
+\headcommand {\slideentry {2}{3}{3}{21/21}{Subseção III}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {2}{3}{5}{22/22}{Subseção III}{0}}
+\headcommand {\slideentry {2}{3}{4}{22/22}{Subseção III}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@sectionpages {13}{22}}
-\headcommand {\beamer@subsectionpages {18}{22}}
-\headcommand {\sectionentry {3}{Multicolunas}{23}{Multicolunas}{0}}
-\headcommand {\slideentry {3}{0}{1}{23/23}{}{0}}
+\headcommand {\slideentry {2}{3}{5}{23/23}{Subseção III}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\beamer@sectionpages {23}{23}}
-\headcommand {\beamer@subsectionpages {23}{23}}
-\headcommand {\sectionentry {4}{Imagens}{24}{Imagens}{0}}
-\headcommand {\slideentry {4}{0}{1}{24/24}{}{0}}
+\headcommand {\beamer@sectionpages {14}{23}}
+\headcommand {\beamer@subsectionpages {19}{23}}
+\headcommand {\sectionentry {3}{Multicolunas}{24}{Multicolunas}{0}}
+\headcommand {\slideentry {3}{0}{1}{24/24}{}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {4}{0}{2}{25/25}{}{0}}
+\headcommand {\beamer@sectionpages {24}{24}}
+\headcommand {\beamer@subsectionpages {24}{24}}
+\headcommand {\sectionentry {4}{Imagens}{25}{Imagens}{0}}
+\headcommand {\slideentry {4}{0}{1}{25/25}{}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\slideentry {4}{0}{3}{26/26}{}{0}}
+\headcommand {\slideentry {4}{0}{2}{26/26}{}{0}}
 \headcommand {\beamer@framepages {26}{26}}
-\headcommand {\beamer@partpages {1}{26}}
-\headcommand {\beamer@subsectionpages {24}{26}}
-\headcommand {\beamer@sectionpages {24}{26}}
-\headcommand {\beamer@documentpages {26}}
-\headcommand {\gdef \inserttotalframenumber {24}}
+\headcommand {\slideentry {4}{0}{3}{27/27}{}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@partpages {1}{27}}
+\headcommand {\beamer@subsectionpages {25}{27}}
+\headcommand {\beamer@sectionpages {25}{27}}
+\headcommand {\beamer@documentpages {27}}
+\headcommand {\gdef \inserttotalframenumber {25}}
