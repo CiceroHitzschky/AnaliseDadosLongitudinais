@@ -1,7 +1,7 @@
 \section{Dataset Riesby}
 \subsection{Sobre o Dataset}
 \begin{frame}{Dataset Riesby}
-    \begin{block}{Sobre o dataset}
+    \begin{block}{Sobre o conjunto de dados}
     	\begin{itemize}
     		\justifying
     		\item O dataset Riesby representa um ensaio clínico psiquiátrico longitudinal descrito em Reisby et al. (1977) para tratamento de depressão.
@@ -42,14 +42,12 @@
 			\item Semana 0: 61 participantes.
 			\item Semana 1: 63 participantes.
 			\item Semana 2: 65 participantes.
-			\item Semana 3: 65 participantes.
-			\item Semana 4: 63 participantes.
-			\item Semana 5: 58 participantes.
+			\item Semana 3: 58 participantes.
 		\end{itemize}
 	\end{block}
 \end{frame}
 
-\begin{frame}{Data set}
+\begin{frame}{O conjunto de dados}
 	\begin{table}[ht]
 		\centering
 		\caption{Níveis plasmáticos de imipramina (IMI) e desipramina (DMI) e HDRS score em pacientes com depressão durante o tratamento psiquiátrico.}
@@ -76,7 +74,17 @@
 
 \end{frame}
 
-\begin{frame}{Data set}
+\begin{frame}{O conjunto de dados}
+	\begin{block}{Questões de Interesse}
+		\begin{itemize}
+			\item O tratamento obteve resultados satisfatórios?
+			\item O tratamento em pacientes endógenos é mais eficaz?
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+
+\begin{frame}{O conjunto de dados}
 	\begin{table}[ht]
 		\centering
 		\caption{Escore HDRS dos pacientes em cada semana de tratamento.}
@@ -91,11 +99,10 @@
 				104 & -11 & -16 & -10 & -29 \\
 				105 & -6 & -6 & -9 & -13 \\
 				$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ &$\vdots$ \\
-				606 & -7 & -7 & -16 & -18 \\
 				607 & 0 & -3 & -10 & -26 \\
 				608 & -10 & -12 & -21 & -20 \\
 				609 & -3 & -11 & -10 & -23 \\
-				610 & -1 & -11 & NaN & -23 \\
+				610 & -1 & -11 & N/A & -23 \\
 				\bottomrule
 			\end{tabular}
 			
@@ -104,37 +111,43 @@
 	
 \end{frame}
 
-\begin{frame}{Data set}
+
+\begin{frame}{Medidas de Resumo}
 	\begin{table}[ht]
 		\centering
-		\caption{Escore HDRS dos pacientes em cada semana de tratamento.}
-		\resizebox{0.5\textwidth}{!}{ % 
-			\begin{tabular}{crrrr}
+		\caption{Medidas de resumo do Score de Depressão HDRS para cada sexo nas diferentes semanas de tratamento.}
+		\resizebox{\textwidth}{!}{ % 
+			\begin{tabular}{lccrrrrrrr}
 				\toprule
-				Semana & 0 & 1 & 2 & 3 \\
-				ID &  &  &  &  \\
+				&  & Quantidade & Média & DP & Min & Q1 & Mediana & Q3 & Max \\
+				\hline
+				Sexo & Semana &  &  &  &  &  &  &  &  \\
 				\midrule
-				101 & -8 & -19 & -22 & -23 \\
-				103 & -18 & -9 & -18 & -20 \\
-				104 & -11 & -16 & -10 & -29 \\
-				105 & -6 & -6 & -9 & -13 \\
-				$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ &$\vdots$ \\
-				606 & -7 & -7 & -16 & -18 \\
-				607 & 0 & -3 & -10 & -26 \\
-				608 & -10 & -12 & -21 & -20 \\
-				609 & -3 & -11 & -10 & -23 \\
-				610 & -1 & -11 & NaN & -23 \\
+				\multirow[t]{4}{*}{Feminino} & 0 & 19 & -2,79 & 5,24 & -13 & -6,00 & -3,0 & 0,00 & 8 \\
+				& 1 & 19 & -6,58 & 8,49 & -24 & -11,00 & -5,0 & -2,00 & 8 \\
+				& 2 & 19 & -9,58 & 8,21 & -23 & -15,00 & -9,0 & -4,00 & 7 \\
+				& 3 & 18 & -10,67 & 8,98 & -23 & -16,75 & -14,5 & -5,25 & 12 \\
+				\cline{1-10}
+				\multirow[t]{4}{*}{Masculino} & 0 & 45 & -5,80 & 5,23 & -19 & -10,00 & -4,0 & -2,00 & 6 \\
+				& 1 & 46 & -7,00 & 5,60 & -22 & -10,00 & -7,0 & -3,00 & 4 \\
+				& 2 & 44 & -9,55 & 7,04 & -23 & -12,00 & -10,0 & -6,50 & 6 \\
+				& 3 & 40 & -11,4 & 7,44 & -29 & -15,00 & -11,0 & -6,00 & 7 \\
+				\cline{1-10}
 				\bottomrule
 			\end{tabular}
-			
 		}
 	\end{table}
 	
 \end{frame}
 
+\begin{frame}{Gráfico de trajetórias individuais do Score HDRS para cada sexo.}
+		
+		\centering
+		\resizebox{0.8\textwidth}{!}{ % 
+			\includegraphics[width=0.7\linewidth]{imagens/secao1/perfis_individuais_por_sexo}
+		}
 
-
-
+\end{frame}
 
 
 

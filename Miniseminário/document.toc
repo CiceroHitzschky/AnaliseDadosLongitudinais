@@ -1,9 +1,4 @@
 \babel@toc {brazil}{}\relax 
-\beamer@sectionintoc {1}{Dataset Riesby}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Sobre o Dataset}{3}{0}{1}
-\beamer@sectionintoc {2}{Seção I}{9}{0}{2}
-\beamer@subsectionintoc {2}{1}{Subseção I}{10}{0}{2}
-\beamer@subsectionintoc {2}{2}{Subseção II}{11}{0}{2}
-\beamer@subsectionintoc {2}{3}{Subseção III}{14}{0}{2}
-\beamer@sectionintoc {3}{Multicolunas}{19}{0}{3}
-\beamer@sectionintoc {4}{Imagens}{20}{0}{4}
+\beamer@sectionintoc {1}{Seção I}{3}{0}{1}
+\beamer@sectionintoc {2}{Dataset Riesby}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Sobre o Dataset}{3}{0}{2}
