@@ -1,4 +1,6 @@
 \babel@toc {brazil}{}\relax 
-\beamer@sectionintoc {1}{Seção I}{3}{0}{1}
-\beamer@sectionintoc {2}{Dataset Riesby}{3}{0}{2}
-\beamer@subsectionintoc {2}{1}{Sobre o Dataset}{3}{0}{2}
+\beamer@sectionintoc {1}{Dataset Riesby}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Desenho do Estudo}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Análise}{11}{0}{1}
+\beamer@sectionintoc {2}{Dataset Sitka Spruce}{23}{0}{2}
+\beamer@subsectionintoc {2}{1}{Análise}{30}{0}{2}

@@ -1,5 +1,5 @@
 \section{Dataset Riesby}
-\subsection{Sobre o Dataset}
+\subsection{Desenho do Estudo}
 \begin{frame}{Dataset Riesby}
     \begin{block}{Sobre o conjunto de dados}
     	\begin{itemize}
@@ -139,6 +139,9 @@
 	\end{table}
 	
 \end{frame}
+% Variancias
+
+\subsection{Análise}
 
 \begin{frame}{Gráfico de trajetórias individuais do Score HDRS para cada sexo.}
 		
@@ -150,21 +153,115 @@
 \end{frame}
 
 
+\begin{frame}{Gráfico de trajetórias individuais do Score HDRS  com perfil médio para cada sexo.}
+	
+	\centering
+	\resizebox{0.8\textwidth}{!}{ % 
+		\includegraphics[width=0.7\linewidth]{imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio}
+	}
+	
+\end{frame}
+
+\begin{frame}{Gráfico de trajetórias individuais do Score HDRS  com perfil médio e regressão para cada sexo.}
+	
+	\centering
+	\resizebox{0.8\textwidth}{!}{ % 
+		\includegraphics[width=0.7\linewidth]{imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio_e_regressao}
+	}
+	
+\end{frame}
+
+\begin{frame}{Modelos de Regressão simples}
+	\begin{block}{Modelo de Regressão para o sexo feminino}
+		$$
+		y = -3.41 - 2.66x + \varepsilon
+		$$
+	\end{block}
+	\begin{block}{Modelo de Regressão para o sexo masculino}
+		$$
+		y = -5.53 - 1.93x + \varepsilon
+		$$
+	\end{block}
+\end{frame}
+
+\begin{frame}{}
+	Gráfico de trajetórias individuais do Score HDRS para o sexo feminino com perfil médio e regressão simples e regressão polinomial do 2nd grau ajustada.
+	\centering
+	\resizebox{0.8\textwidth}{!}{ % 
+		\includegraphics[width=0.7\linewidth]{imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio_e_regressao_ajuste_polinomial}
+	}
+	
+\end{frame}
+
+\begin{frame}{}
+	\centering
+	\resizebox{\textwidth}{!}{ % 
+		\includegraphics[width=0.7\linewidth]{imagens/secao1/diagrama_de_caixa_pontuacao_HDRS}
+	}
+	
+\end{frame}
+
+
+\begin{frame}{Regressão via Florestas Aleatórias}
+	Para 4 árvores
+	\centering
+	\resizebox{\textwidth}{!}{ % 
+		\includegraphics[width=0.8\linewidth]{imagens/secao1/RF_separados_4}
+	}
+	
+\end{frame}
+
+\begin{frame}{Regressão via Florestas Aleatórias}
+	Para 10 árvores
+	\centering
+	\resizebox{\textwidth}{!}{ % 
+		\includegraphics[width=0.8\linewidth]{imagens/secao1/RF_separados_10}
+	}
+	
+\end{frame}
+
+\begin{frame}{Regressão via Florestas Aleatórias}
+	Para 50 árvores
+	\centering
+	\resizebox{\textwidth}{!}{ % 
+		\includegraphics[width=0.8\linewidth]{imagens/secao1/RF_separados_50}
+	}
+	
+\end{frame}
+
+\begin{frame}{Regressão via Florestas Aleatórias}
+	Para 100 árvores
+	\centering
+	\resizebox{\textwidth}{!}{ % 
+		\includegraphics[width=0.8\linewidth]{imagens/secao1/RF_separados_100}
+	}
+	
+\end{frame}
+
+\begin{frame}{Melhor Escolha de Hiperparametro}
+\begin{table}[h!]
+	\centering
+	\caption{Comparação de Hiperparâmetros do Random Forest}
+	\begin{tabular}{|c|c|c|c|}
+		\hline
+		\textbf{Num de Árvores} & \textbf{EQM} & \textbf{$R^2$ Score} & \textbf{EMA} \\
+		\hline
+		4  & 44.06 & -0.0309 & 5.06 \\
+		10 & 31.50 &  0.2630 & 4.33 \\
+		50 & 33.30 &  0.2203 & 4.42 \\
+		100 & 32.70 &  0.2300 & 4.27 \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\end{frame}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\begin{frame}{Regressão via Florestas Aleatórias}
+	\centering
+	\resizebox{\linewidth}{!}{ % 
+		\includegraphics[width=0.6\linewidth]{imagens/secao1/RF_comparação}
+	}
+	
+\end{frame}

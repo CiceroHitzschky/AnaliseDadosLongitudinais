@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.9.21)  20 FEB 2025 11:16
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.9.21)  21 FEB 2025 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1720,22 +1720,278 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
  [11
 
-])
-
-LaTeX Warning: Empty bibliography on input line 81.
-
+]
+File: imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio.png Graphic f
+ile (type bmp)
+<imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio.png>
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-[12
+ [12
+
+]
+File: imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio_e_regressao.p
+ng Graphic file (type bmp)
+<imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio_e_regressao.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [13
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type bmp)
 <libs/logoUFCbackground.png>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
- [13
+ [14
+
+]
+File: imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio_e_regressao_a
+juste_polinomial.png Graphic file (type bmp)
+<imagens/secao1/perfis_individuais_por_sexo_com_perfil_medio_e_regressao_ajuste
+_polinomial.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [15
+
+]
+File: imagens/secao1/diagrama_de_caixa_pontuacao_HDRS.png Graphic file (type bm
+p)
+<imagens/secao1/diagrama_de_caixa_pontuacao_HDRS.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [16
+
+]
+File: imagens/secao1/RF_separados_4.png Graphic file (type bmp)
+<imagens/secao1/RF_separados_4.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [17
+
+]
+File: imagens/secao1/RF_separados_10.png Graphic file (type bmp)
+<imagens/secao1/RF_separados_10.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [18
+
+]
+File: imagens/secao1/RF_separados_50.png Graphic file (type bmp)
+<imagens/secao1/RF_separados_50.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [19
+
+]
+File: imagens/secao1/RF_separados_100.png Graphic file (type bmp)
+<imagens/secao1/RF_separados_100.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [20
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [21
+
+]
+File: imagens/secao1/RF_comparação.png Graphic file (type bmp)
+<imagens/secao1/RF_comparação.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [22
+
+])
+(./secoes/sitka.tex
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [23
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [24
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [25
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [26
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 70.
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [27
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [28
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [29
+
+]
+File: imagens/secao2/crescimento geral.png Graphic file (type bmp)
+<imagens/secao2/crescimento geral.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [30
+
+]
+File: imagens/secao2/diagrama_de_caixa_crescimento.png Graphic file (type bmp)
+<imagens/secao2/diagrama_de_caixa_crescimento.png>
+
+Overfull \vbox (0.63469pt too high) detected at line 131
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+[31
+
+]
+File: imagens/secao2/crescimento ozonio e controle.png Graphic file (type bmp)
+<imagens/secao2/crescimento ozonio e controle.png>
+
+Overfull \vbox (0.63469pt too high) detected at line 140
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+[32
+
+]
+File: imagens/secao2/crescimento poli 2.png Graphic file (type bmp)
+<imagens/secao2/crescimento poli 2.png>
+
+Overfull \vbox (0.63469pt too high) detected at line 150
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+[33
+
+]
+File: imagens/secao2/crescimento poli 3.png Graphic file (type bmp)
+<imagens/secao2/crescimento poli 3.png>
+
+Overfull \vbox (0.63469pt too high) detected at line 159
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+[34
+
+]
+File: imagens/secao2/modelo misto.png Graphic file (type bmp)
+<imagens/secao2/modelo misto.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [35
+
+]
+File: imagens/secao2/gee.png Graphic file (type bmp)
+<imagens/secao2/gee.png>
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [36
+
+]) (./secoes/ref.tex
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [37
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [38
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [39
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [40
+
+]
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [41
+
+])
+File: libs/logoUFCbackground.png Graphic file (type bmp)
+<libs/logoUFCbackground.png>
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+ [42
 
 ]
 \tf@nav=\write8
@@ -1747,7 +2003,8 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 \tf@snm=\write10
 \openout10 = `document.snm'.
 
- (./document.aux)
+
+(./document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1757,7 +2014,7 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 21A516820BA101D1FFD2965318D37E9D;341.
+(rerunfilecheck)             Checksum: C39D19BDD276D6302FEA164845351A74;605.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                document
@@ -1768,12 +2025,12 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40035 strings out of 474878
- 785358 string characters out of 5762516
- 1941627 words of memory out of 5000000
- 61391 multiletter control sequences out of 15000+600000
- 590376 words of font info for 68 fonts, out of 8000000 for 9000
+ 40509 strings out of 474878
+ 804034 string characters out of 5762516
+ 1956627 words of memory out of 5000000
+ 61843 multiletter control sequences out of 15000+600000
+ 592175 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  142i,19n,137p,1005b,4012s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on document.pdf (13 pages).
+Output written on document.pdf (42 pages).
