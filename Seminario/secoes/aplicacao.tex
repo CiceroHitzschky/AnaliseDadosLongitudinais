@@ -1,0 +1,108 @@
+\section{Aplicação}
+
+\begin{frame}{Contextualização}
+	\begin{block}{Osteoporose}
+		é uma doença em que a degradação estrutural e a diminuição da densidade mineral dos ossos (DMO) aumentam o risco de fraturas ósseas.
+	\end{block}
+	\begin{block}{Motivações para o estudo}
+		\begin{itemize}
+			\item  A prevalência da osteoporose aumentou drasticamente nos últimos anos;
+			\item  Representa um problema de saúde pública com alto índice de morbidade (muito comum).
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}{Contextualização}
+	\begin{block}{}
+		\begin{itemize}
+			\item Em 2010, na União Europeia, aproximadamente 5,5 milhões de homens e 22 milhões de mulheres foram afetados pela osteoporose;
+			\item 80\% das mulheres afetadas não estavam cientes dos seus fatores de risco até o diagnóstico.
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}{Objetivos}
+	\begin{block}{}
+			\begin{enumerate}
+			\item Comparar a precisão preditiva dos métodos aprendizado de máquina com a regressão linear múltipla tradicional;
+			\item Classificar a importância de vários fatores de risco, incluindo dados demográficos, estilo de vida e bioquímica, na previsão das mudanças futuras no $\delta$-T score.
+		\end{enumerate}
+	\end{block}
+\end{frame}
+
+\begin{frame}{Metodologia}
+\end{frame}
+\begin{frame}{Fonte dos Dados}
+	\begin{itemize}
+		\item Coorte MJ de Taiwan  
+		\begin{itemize}
+			\item Coorte prospectiva em andamento  
+			\item Exames conduzidos pelos Centros de Triagem de Saúde MJ  
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Informações Coletadas}
+	\begin{itemize}
+		\item Mais de 100 indicadores biológicos essenciais  
+		\item Questionário abrangendo:  
+		\begin{itemize}
+			\item Histórico médico pessoal e familiar  
+			\item Estado de saúde atual  
+			\item Estilo de vida e exercício físico  
+			\item Hábitos de sono e alimentares  
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Considerações Éticas}
+	\begin{itemize}
+		\item Consentimento informado dos participantes  
+		\item Aprovação pelo Comitê de Ética
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Modelos Utilizados}
+	\begin{itemize}
+		\item Floresta Aleatória (RF)
+		\begin{itemize}
+			\item É baseado em árvores de decisão que combina as técnicas de bagging e boosting.
+			\item Minimiza a função de perda e resolve o sobreajuste das árvores de decisão tradicionais.
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Modelos Utilizados}
+	\begin{itemize}
+		\item Gradient Boosting Estocástico (SGB)
+		\begin{itemize}
+			\item Classifica objetos com base em características e variáveis específicas.
+			\item Utiliza o teorema de Bayes para calcular a probabilidade das hipóteses sobre grupos presumidos.
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Modelos Utilizados}
+	\begin{itemize}
+		\item Naive Bayes (NB)
+		\begin{itemize}
+			\item Classifica objetos com base em características e variáveis específicas.
+			\item Utiliza o teorema de Bayes para calcular a probabilidade das hipóteses sobre grupos presumidos.
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Modelos Utilizados}
+	\begin{itemize}
+		\item Extreme Gradient Boosting (XGBoost)
+		\begin{itemize}
+			\item Tecnologia de gradient boosting baseada na extensão otimizada do SGB.
+			\item Treina vários modelos “fracos” e faz ensemble com o Gradiente Boosting.
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+
+
+
+
