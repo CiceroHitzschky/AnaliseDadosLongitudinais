@@ -1,9 +1,16 @@
 \section{Aplicação}
 
+\begin{frame}{Aplicação}
+	\begin{figure}[h]
+		\includegraphics[scale=0.3]{imagens//secao3/artigo2.png}
+	\end{figure}
+\end{frame}
+
 \begin{frame}{Contextualização}
 	\begin{block}{Osteoporose}
 		é uma doença em que a degradação estrutural e a diminuição da densidade mineral dos ossos (DMO) aumentam o risco de fraturas ósseas.
 	\end{block}
+	\pause
 	\begin{block}{Motivações para o estudo}
 		\begin{itemize}
 			\item  A prevalência da osteoporose aumentou drasticamente nos últimos anos;
@@ -25,27 +32,27 @@
 	\begin{block}{}
 			\begin{enumerate}
 			\item Comparar a precisão preditiva dos métodos aprendizado de máquina com a regressão linear múltipla tradicional;
+			\pause
 			\item Classificar a importância de vários fatores de risco, incluindo dados demográficos, estilo de vida e bioquímica, na previsão das mudanças futuras no $\delta$-T score.
 		\end{enumerate}
 	\end{block}
 \end{frame}
 
-\begin{frame}{Metodologia}
-\end{frame}
 \begin{frame}{Fonte dos Dados}
-	\begin{itemize}
-		\item Coorte MJ de Taiwan  
+	\begin{block}{}
 		\begin{itemize}
-			\item Coorte prospectiva em andamento  
+			\item Coorte MJ de Taiwan  
 			\item Exames conduzidos pelos Centros de Triagem de Saúde MJ  
 		\end{itemize}
-	\end{itemize}
+	\end{block}
 \end{frame}
 
 \begin{frame}{Informações Coletadas}
 	\begin{itemize}
 		\item Mais de 100 indicadores biológicos essenciais  
-		\item Questionário abrangendo:  
+		\pause
+		\item Questionário abrangendo: 
+		\pause 
 		\begin{itemize}
 			\item Histórico médico pessoal e familiar  
 			\item Estado de saúde atual  
@@ -62,6 +69,12 @@
 	\end{itemize}
 \end{frame}
 
+\begin{frame}{Seleção da Amostra}
+	\begin{figure}[h]
+		\includegraphics[width=1.1\linewidth, height = !]{imagens//secao3/selecao.png}
+	\end{figure}
+\end{frame}
+
 \begin{frame}{Modelos Utilizados}
 	\begin{itemize}
 		\item Floresta Aleatória (RF)
@@ -75,10 +88,10 @@
 
 \begin{frame}{Modelos Utilizados}
 	\begin{itemize}
-		\item Gradient Boosting Estocástico (SGB)
+		\item Gradiente Boosting Estocástico (SGB)
 		\begin{itemize}
-			\item Classifica objetos com base em características e variáveis específicas.
-			\item Utiliza o teorema de Bayes para calcular a probabilidade das hipóteses sobre grupos presumidos.
+			\item É uma variação do Gradient Boosting que introduz aleatoriedade ao selecionar subconjuntos de dados (amostras) e características em cada iteração.
+			\item Combina a minimização da função de perda com a aleatoriedade, melhorando a generalização e reduzindo o risco de sobreajuste.
 		\end{itemize}
 	\end{itemize}
 \end{frame}
@@ -101,6 +114,14 @@
 			\item Treina vários modelos “fracos” e faz ensemble com o Gradiente Boosting.
 		\end{itemize}
 	\end{itemize}
+\end{frame}
+
+\begin{frame}{Seleção da Amostra}
+	\vspace{-1cm}
+	
+	\begin{figure}[h]	
+		\includegraphics[width=1.2\linewidth, height = !]{imagens//secao3/mlesquema.png}
+	\end{figure}
 \end{frame}
 
 \begin{frame}{Métricas de Desempenho}
@@ -155,5 +176,9 @@
 	\end{itemize}
 \end{frame}
 
-
+\begin{frame}{}
+	\begin{block}{Terço da Misericórdia}
+		\aspas{Pela sua dolorosa paixão, tende misericórdia de nós e do mundo inteiro [...] }\textit{(50x)}
+	\end{block}
+\end{frame}
 

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.21)  27 FEB 2025 23:32
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.9.21)  28 FEB 2025 11:28
  restricted system commands enabled.
 **document.tex
 (./document.tex
@@ -1934,12 +1934,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<libs/logoUFCbackground.png, id=106, 703.428pt x 468.3096pt>
+<libs/logoUFCbackground.png, id=118, 703.428pt x 468.3096pt>
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
 Package luatex.def Info: libs/logoUFCbackground.png  used on input line 51.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
-<libs/emblemufc.pdf, id=107, 803.0pt x 239.78484pt>
+<libs/emblemufc.pdf, id=119, 803.0pt x 239.78484pt>
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
 Package luatex.def Info: libs/emblemufc.pdf  used on input line 51.
@@ -1960,27 +1960,38 @@ Package luatex.def Info: libs/emblemufc.pdf  used on input line 59.
 ] (./secoes/machineLearning.tex
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 11.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 12.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 11.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 12.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [3
 
 ]
-<imagens//secao1/haugeland1985.png, id=512, 336.25626pt x 484.81125pt>
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 12.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 12.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [4
+
+]
+<imagens//secao1/haugeland1985.png, id=629, 336.25626pt x 484.81125pt>
 File: imagens//secao1/haugeland1985.png Graphic file (type png)
 <use imagens//secao1/haugeland1985.png>
 Package luatex.def Info: imagens//secao1/haugeland1985.png  used on input line 
-30.
+31.
 (luatex.def)             Requested size: 92.18788pt x 132.91293pt.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1989,7 +2000,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1999,133 +2010,118 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 30.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 30.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 30.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Overfull \hbox (3.32999pt too wide) in paragraph at lines 30--30
+Overfull \hbox (3.32999pt too wide) in paragraph at lines 31--31
 []$[]$ $[]$  
  []
 
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 30.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 31.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 30.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
-[4
-
-<./imagens//secao1/haugeland1985.png>]
-<imagens//secao1/bellman1978.png, id=602, 284.06125pt x 347.2975pt>
-File: imagens//secao1/bellman1978.png Graphic file (type png)
-<use imagens//secao1/bellman1978.png>
-Package luatex.def Info: imagens//secao1/bellman1978.png  used on input line 50
-.
-(luatex.def)             Requested size: 92.18788pt x 112.71136pt.
-
-Overfull \hbox (3.32999pt too wide) in paragraph at lines 50--50
-[]$[]$ $[]$  
- []
-
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 50.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 50.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 31.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
 [5
 
-<./imagens//secao1/bellman1978.png>]
-<imagens//secao1/kurzweil.png, id=691, 197.73875pt x 249.93375pt>
-File: imagens//secao1/kurzweil.png Graphic file (type png)
-<use imagens//secao1/kurzweil.png>
-Package luatex.def Info: imagens//secao1/kurzweil.png  used on input line 69.
-(luatex.def)             Requested size: 76.82246pt x 97.10002pt.
+<./imagens//secao1/haugeland1985.png>]
+<imagens//secao1/bellman1978.png, id=731, 284.06125pt x 347.2975pt>
+File: imagens//secao1/bellman1978.png Graphic file (type png)
+<use imagens//secao1/bellman1978.png>
+Package luatex.def Info: imagens//secao1/bellman1978.png  used on input line 51
+.
+(luatex.def)             Requested size: 92.18788pt x 112.71136pt.
 
-Overfull \hbox (3.32999pt too wide) in paragraph at lines 69--69
+Overfull \hbox (3.32999pt too wide) in paragraph at lines 51--51
 []$[]$ $[]$  
  []
 
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 69.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 51.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 69.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 51.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
 [6
+
+<./imagens//secao1/bellman1978.png>]
+<imagens//secao1/kurzweil.png, id=832, 197.73875pt x 249.93375pt>
+File: imagens//secao1/kurzweil.png Graphic file (type png)
+<use imagens//secao1/kurzweil.png>
+Package luatex.def Info: imagens//secao1/kurzweil.png  used on input line 70.
+(luatex.def)             Requested size: 76.82246pt x 97.10002pt.
+
+Overfull \hbox (3.32999pt too wide) in paragraph at lines 70--70
+[]$[]$ $[]$  
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 70.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 70.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+[7
 
 <./imagens//secao1/kurzweil.png>]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 98.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 99.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 98.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [7
-
-]
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 105.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 105.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 99.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [8
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 116.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 106.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 116.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 106.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [9
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 131.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 118.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 131.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 118.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [10
 
 ]
-<imagens//secao1/tradicionalspam.png, id=1176, 770.88pt x 578.16pt>
-File: imagens//secao1/tradicionalspam.png Graphic file (type png)
-<use imagens//secao1/tradicionalspam.png>
-Package luatex.def Info: imagens//secao1/tradicionalspam.png  used on input lin
-e 137.
-(luatex.def)             Requested size: 308.34654pt x 231.2599pt.
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 118.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 118.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [11
 
-Overfull \hbox (1.05667pt too wide) in paragraph at lines 137--137
- [] 
- []
-
-
-Overfull \vbox (28.09875pt too high) detected at line 137
- []
-
+]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
 Package luatex.def Info: libs/logoUFCbackground.png  used on input line 137.
@@ -2134,7 +2130,78 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
 Package luatex.def Info: libs/emblemufc.pdf  used on input line 137.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
-[11
+ [12
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 137.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 137.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [13
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 137.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 137.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [14
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 137.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 137.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [15
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 137.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 137.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+
+[16
+
+]
+<imagens//secao1/tradicionalspam.png, id=1700, 770.88pt x 578.16pt>
+File: imagens//secao1/tradicionalspam.png Graphic file (type png)
+<use imagens//secao1/tradicionalspam.png>
+Package luatex.def Info: imagens//secao1/tradicionalspam.png  used on input lin
+e 143.
+(luatex.def)             Requested size: 308.34654pt x 231.2599pt.
+
+Overfull \hbox (1.05667pt too wide) in paragraph at lines 143--143
+ [] 
+ []
+
+
+Overfull \vbox (28.09875pt too high) detected at line 143
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 143.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 143.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+[17
 
 <./imagens//secao1/tradicionalspam.png>]
 Package microtype Info: Loading generic protrusion settings for font family
@@ -2296,219 +2363,318 @@ Package microtype Info: Character `textgreater ' is missing
 (microtype)             Ignoring protrusion settings for this character.
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 148.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 155.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 148.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [12
-
-</tmp/lua_eqFd91></tmp/lua_JqEEjg>]
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 160.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 160.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [13
-
-]
-<imagens//secao1/mlspam.png, id=1466, 770.88pt x 578.16pt>
-File: imagens//secao1/mlspam.png Graphic file (type png)
-<use imagens//secao1/mlspam.png>
-Package luatex.def Info: imagens//secao1/mlspam.png  used on input line 166.
-(luatex.def)             Requested size: 308.34654pt x 231.2599pt.
-
-Overfull \hbox (1.05667pt too wide) in paragraph at lines 166--166
- [] 
- []
-
-
-Overfull \vbox (28.09875pt too high) detected at line 166
- []
-
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 166.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 166.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
-[14
-
-<./imagens//secao1/mlspam.png>]
-<imagens//secao1/automl.png, id=1555, 770.88pt x 578.16pt>
-File: imagens//secao1/automl.png Graphic file (type png)
-<use imagens//secao1/automl.png>
-Package luatex.def Info: imagens//secao1/automl.png  used on input line 172.
-(luatex.def)             Requested size: 308.34654pt x 231.2599pt.
-
-Overfull \hbox (1.05667pt too wide) in paragraph at lines 172--172
- [] 
- []
-
-
-Overfull \vbox (28.09875pt too high) detected at line 172
- []
-
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 172.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 172.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
-[15
-
-<./imagens//secao1/automl.png>]) (./secoes/MLemDadosLongitudinais.tex
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 10.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 10.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
-
-[16
-
-]
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 21.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 21.
-(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [17
-
-]
-File: libs/logoUFCbackground.png Graphic file (type png)
-<use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 31.
-(luatex.def)             Requested size: 619.131pt x 412.21376pt.
-File: libs/emblemufc.pdf Graphic file (type pdf)
-<use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 31.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 155.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [18
 
-]
+</tmp/lua_JWiSLX></tmp/lua_fsrnQr>]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 46.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 155.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 46.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 155.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [19
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 73.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 155.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 73.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 155.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [20
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 96.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 155.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 96.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 155.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [21
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 116.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 155.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 116.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 155.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [22
 
-]) (./secoes/aplicacao.tex
+]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 13.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 168.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 13.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 168.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [23
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 22.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 168.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 22.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 168.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
  [24
 
 ]
+<imagens//secao1/mlspam.png, id=2339, 770.88pt x 578.16pt>
+File: imagens//secao1/mlspam.png Graphic file (type png)
+<use imagens//secao1/mlspam.png>
+Package luatex.def Info: imagens//secao1/mlspam.png  used on input line 174.
+(luatex.def)             Requested size: 308.34654pt x 231.2599pt.
+
+Overfull \hbox (1.05667pt too wide) in paragraph at lines 174--174
+ [] 
+ []
+
+
+Overfull \vbox (28.09875pt too high) detected at line 174
+ []
+
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 31.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 174.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 31.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 174.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [25
+[25
 
-]
+<./imagens//secao1/mlspam.png>]
+<imagens//secao1/automl.png, id=2440, 770.88pt x 578.16pt>
+File: imagens//secao1/automl.png Graphic file (type png)
+<use imagens//secao1/automl.png>
+Package luatex.def Info: imagens//secao1/automl.png  used on input line 180.
+(luatex.def)             Requested size: 308.34654pt x 231.2599pt.
+
+Overfull \hbox (1.05667pt too wide) in paragraph at lines 180--180
+ [] 
+ []
+
+
+Overfull \vbox (28.09875pt too high) detected at line 180
+ []
+
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 34.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 180.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 34.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 180.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
-
 [26
 
-]
+<./imagens//secao1/automl.png>]) (./secoes/MLemDadosLongitudinais.tex
+<imagens//secao2/artigo1.png, id=2540, 792.9625pt x 666.49pt>
+File: imagens//secao2/artigo1.png Graphic file (type png)
+<use imagens//secao2/artigo1.png>
+Package luatex.def Info: imagens//secao2/artigo1.png  used on input line 7.
+(luatex.def)             Requested size: 317.17938pt x 266.59128pt.
+
+Overfull \hbox (9.88951pt too wide) in paragraph at lines 7--7
+ [] 
+ []
+
+
+Overfull \vbox (40.78137pt too high) detected at line 7
+ []
+
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 43.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 7.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 43.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 7.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [27
+[27
+
+<./imagens//secao2/artigo1.png>]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 17.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 17.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [28
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 56.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 28.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 56.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 28.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [28
+ [29
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 38.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 38.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [30
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 53.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 53.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [31
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 80.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 80.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [32
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 103.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 103.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [33
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 123.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 123.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [34
+
+])
+(./secoes/aplicacao.tex
+<imagens//secao3/artigo2.png, id=3413, 1009.7725pt x 821.0675pt>
+File: imagens//secao3/artigo2.png Graphic file (type png)
+<use imagens//secao3/artigo2.png>
+Package luatex.def Info: imagens//secao3/artigo2.png  used on input line 7.
+(luatex.def)             Requested size: 302.93408pt x 246.32214pt.
+
+Overfull \vbox (31.161pt too high) detected at line 7
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 7.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 7.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+[35
+
+<./imagens//secao3/artigo2.png>]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 20.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 20.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [36
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 20.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 20.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [37
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 29.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 29.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [38
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 39.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 39.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [39
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 39.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 39.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [40
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 48.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 48.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [41
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
@@ -2519,109 +2685,221 @@ File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
 Package luatex.def Info: libs/emblemufc.pdf  used on input line 63.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [29
+ [42
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 73.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 63.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 73.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 63.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [30
+ [43
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 84.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 63.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 84.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 63.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [31
+
+[44
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 94.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 70.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 94.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 70.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [32
+ [45
+
+]
+<imagens//secao3/selecao.png, id=4405, 1445.4pt x 813.0375pt>
+File: imagens//secao3/selecao.png Graphic file (type png)
+<use imagens//secao3/selecao.png>
+Package luatex.def Info: imagens//secao3/selecao.png  used on input line 76.
+(luatex.def)             Requested size: 338.02072pt x 190.13339pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 76--76
+ [] 
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 76.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 76.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+[46
+
+<./imagens//secao3/selecao.png>]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 86.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 86.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [47
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 104.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 97.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 104.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 97.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [33
+ [48
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 121.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 107.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 121.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 107.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [34
+ [49
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 140.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 117.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 140.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 117.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [35
+ [50
+
+]
+<imagens//secao3/mlesquema.png, id=4900, 1445.4pt x 813.0375pt>
+File: imagens//secao3/mlesquema.png Graphic file (type png)
+<use imagens//secao3/mlesquema.png>
+Package luatex.def Info: imagens//secao3/mlesquema.png  used on input line 125.
+
+(luatex.def)             Requested size: 368.7469pt x 207.41486pt.
+
+Overfull \hbox (61.45703pt too wide) in paragraph at lines 125--125
+ [] 
+ []
+
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 125.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 125.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+[51
+
+<./imagens//secao3/mlesquema.png>]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 142.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 142.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [52
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 156.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 161.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 156.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 161.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [36
+ [53
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 177.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 177.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [54
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 183.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 183.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [55
 
 ])
-
-LaTeX Warning: Empty bibliography on input line 207.
+Overfull \hbox (26.22528pt too wide) in paragraph at lines 209--209
+\TU/lmtt/m/n/10 nature.com/articles/s41598-[]024-[]73799-[]6$[]\TU/lmss/m/n/10 
+>. Acesso em: 28/02/2025. 
+ []
 
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 207.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 209.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 207.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 209.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
-[37
+[56
 
 ]
 File: libs/logoUFCbackground.png Graphic file (type png)
 <use libs/logoUFCbackground.png>
-Package luatex.def Info: libs/logoUFCbackground.png  used on input line 221.
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 216.
 (luatex.def)             Requested size: 619.131pt x 412.21376pt.
 File: libs/emblemufc.pdf Graphic file (type pdf)
 <use libs/emblemufc.pdf>
-Package luatex.def Info: libs/emblemufc.pdf  used on input line 221.
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 216.
 (luatex.def)             Requested size: 80.3047pt x 23.97987pt.
- [38
+ [57
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 224.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 224.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [58
+
+]
+File: libs/logoUFCbackground.png Graphic file (type png)
+<use libs/logoUFCbackground.png>
+Package luatex.def Info: libs/logoUFCbackground.png  used on input line 240.
+(luatex.def)             Requested size: 619.131pt x 412.21376pt.
+File: libs/emblemufc.pdf Graphic file (type pdf)
+<use libs/emblemufc.pdf>
+Package luatex.def Info: libs/emblemufc.pdf  used on input line 240.
+(luatex.def)             Requested size: 80.3047pt x 23.97987pt.
+ [59
 
 ]
 \tf@nav=\write8
@@ -2646,16 +2924,16 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 50510 strings out of 476553
+ 50733 strings out of 476553
  125161,2373549 words of node,token memory allocated
- 17319 words of node memory still in use:
-   311 hlist, 10 vlist, 14 rule, 29 disc, 7 local_par, 335 glue, 50 kern, 15 pen
-alty, 2 margin_kern, 181 glyph, 2160 attribute, 114 glue_spec, 1082 attribute_li
-st, 4 write, 582 pdf_literal, 40 pdf_start_link, 40 pdf_end_link, 41 pdf_action,
- 106 pdf_colorstack nodes
-   avail lists: 1:3,2:4279,3:1844,4:555,5:288,6:106,7:3711,8:36,9:1521,10:13,11:
-443
- 70959 multiletter control sequences out of 65536+600000
+ 33830 words of node memory still in use:
+   782 hlist, 10 vlist, 89 rule, 30 disc, 7 local_par, 718 glue, 57 kern, 15 pen
+alty, 3 margin_kern, 194 glyph, 4316 attribute, 114 glue_spec, 2160 attribute_li
+st, 4 write, 1251 pdf_literal, 46 pdf_start_link, 46 pdf_end_link, 51 pdf_action
+, 148 pdf_colorstack nodes
+   avail lists: 1:3,2:4141,3:1907,4:560,5:304,6:108,7:3699,8:50,9:1605,10:13,11:
+442
+ 71002 multiletter control sequences out of 65536+600000
  60 fonts using 7962103 bytes
  142i,19n,129p,1004b,2072s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono12-regular.otf></usr/share/texm
@@ -2670,10 +2948,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (38 pages, 1317173 bytes).
+Output written on document.pdf (59 pages, 2061209 bytes).
 
-PDF statistics: 3810 PDF objects out of 4296 (max. 8388607)
- 1962 compressed objects within 20 object streams
- 81 named destinations out of 1000 (max. 131072)
- 1110 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 5853 PDF objects out of 6186 (max. 8388607)
+ 3365 compressed objects within 34 object streams
+ 123 named destinations out of 1000 (max. 131072)
+ 1980 words of extra memory for PDF output out of 10000 (max. 100000000)
 

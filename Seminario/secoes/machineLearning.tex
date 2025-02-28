@@ -5,6 +5,7 @@
     \begin{block}{}
         \begin{itemize}
             \item Não há uma única forma de definir; 
+            \pause
             \item Diferentes autores a descrevem de maneiras distintas a depender do contexto em que está sendo empregada.
         \end{itemize}
     \end{block}
@@ -110,6 +111,7 @@
 		\aspas{Aprendizado de Máquina [ou Estatístico] é o campo de estudo da ciência da computação que dá ao computador a habilidade de \underline{aprender} sem ser explicitamente programado.}
 		Arthur Samuel (1959)
 	\end{block}
+	\pause
 	\begin{block}{O que é aprender?}
 		Se baixássemos todo o conteúdo da Wikipédia em um computador, poderíamos afirmar que ele aprendeu?
 	\end{block}
@@ -120,11 +122,15 @@
 		\justifying
 		Suponha que desejamos criar um filtro de \textit{spam}.
 		Uma forma de fazer isso seria seguindos os passos:
+		\pause
 		\begin{enumerate}
 			\justifying
 			\item Examinar emails que sejam \textit{spam}.
+			\pause
 			É provável que repitam-se as frases: \textit{para você, gratuito, oportunidade, imperdível...}
+			\pause
 			\item Escrever um programa que busque por uma das palavras citadas acima no corpo do email e acione uma \textit{flag}.
+			\pause
 			\item Testamos o programa e repetimos os passos 1 e 2 até nosso programa estar bom o suficiente. 
 		\end{enumerate}
 	\end{block}
@@ -140,9 +146,10 @@
 \begin{frame}{Inteligência Artificial VS Aprendizado Estatístico}
 	\begin{block}{Observações}
 		\begin{itemize}
-			\item Essa solução funciona? \textbf{SIM!!} \emoji{smile}; 
-			\item É a melhor forma de fazer? \textbf{NÃO!!} \emoji{expressionless};
-			\item Sensível a pequenas mudanças, e.g, Pra Você, PARA VOCÊ, PRA VOCE...
+			\item Essa solução funciona?\pause \textbf{SIM!!} \emoji{smile};
+			\pause 
+			\item É a melhor forma de fazer? \pause \textbf{NÃO!!} \emoji{expressionless};
+			\item Sensível a pequenas mudanças \pause, e.g, Pra Você, PARA VOCÊ, PRA VOCE...
 		\end{itemize}
 	\end{block}
 \end{frame}
@@ -154,6 +161,7 @@
 		\begin{enumerate}
 			\justifying
 			\item Examinar emails que sejam \textit{spam};
+			\pause
 			\item Treinar um modelo de aprendizado de máquina para classificar emails como \textit{spam} ou \textit{ham}.
 		\end{enumerate}
 	\end{block}
